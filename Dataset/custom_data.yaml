@@ -1,0 +1,5 @@
+train: C:\Users\bertu\YOLOv5_License_Plate_Detection\Dataset\images\train
+val: C:\Users\bertu\YOLOv5_License_Plate_Detection\Dataset\images\val
+
+nc: 1
+names: ['license-plate']
